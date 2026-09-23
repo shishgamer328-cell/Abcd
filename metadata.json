@@ -1,0 +1,6 @@
+{
+  "name": "Screen Recorder",
+  "description": "High-performance Android Screen Recorder with audio capture options, resolution and FPS control, floating toolbox, video gallery, and player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
